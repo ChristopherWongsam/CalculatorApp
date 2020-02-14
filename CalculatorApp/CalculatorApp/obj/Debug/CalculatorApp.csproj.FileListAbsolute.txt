@@ -1,0 +1,10 @@
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+E:\Users\snapplelight\Documents\C# Projects\CalculatorApp\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
